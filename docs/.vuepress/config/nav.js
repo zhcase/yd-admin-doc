@@ -6,7 +6,7 @@ module.exports = [
   },
   // Nav 2
   {
-    text: "Category",
-    link: "/category/"
+    text: "Components",
+    link: "/comp/table"
   },
-];
+]

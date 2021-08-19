@@ -5,6 +5,7 @@ module.exports = [
         children: [
             "table",
             "form",
+            "card",
             "/comp/",
         ],
     },

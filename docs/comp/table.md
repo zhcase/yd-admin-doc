@@ -154,7 +154,7 @@ export default {
 ```
 
 ::: warning
-如上代码所示 添加 paginationProps 对象 分页栏将会出现。paginationFormat(总页数字段) 此字段将必不可少
+如上代码所示 添加 paginationProps 对象 分页栏将会出现。paginationFormat(总条数) 此字段将必不可少
 :::
 
 ## Action 固定列

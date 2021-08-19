@@ -1,7 +1,7 @@
 module.exports = {
   theme: "",
   title: "前端小册",
-  description: "A lightweight creator for VuePress project.",
+  description: "后台管理系统前端小册.",
   base: "/",
   head: [
     ["link", { rel: "icon", href: "/assets/logo.png" }]
@@ -14,7 +14,7 @@ module.exports = {
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
     lastUpdated: "Last Updated",
-    repo: "",
+    repo: "https://github.com/zhcase/yd-admin",
     editLinks: false,
   },
 };
